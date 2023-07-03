@@ -4,14 +4,14 @@ This is a repository for our Arduino code for the EG1311 course at NUS, taken in
 
 ## Group Members
 
--   Harii, Chemical Engineering
--   Ryan, Materials Science and Engineering
--   Adam, Civil Engineering
+- Harii, Chemical Engineering
+- Ryan, Materials Science and Engineering
+- Adam, Civil Engineering
 
 ## Video
 
-<iframe width="560" height="315" src="https://img.youtube.com/vi/uCbqcYAOKRg/0.jpg)](https://www.youtube.com/watch?v=uCbqcYAOKRg&ab_channel=HelloThere" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video link](https://img.youtube.com/vi/uCbqcYAOKRg/0.jpg)](https://www.youtube.com/watch?v=uCbqcYAOKRg)
 
 ## Circuit Design
 
-<iframe width="725" height="453" src="https://www.tinkercad.com/embed/cQuYn9oU6fQ" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+[![Video link](https://csg.tinkercad.com/things/cQuYn9oU6fQ/t725.png?rev=1680695461765000000&s=&v=1&type=circuits)](https://www.tinkercad.com/embed/cQuYn9oU6fQ)
